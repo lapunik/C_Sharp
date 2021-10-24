@@ -1,0 +1,16 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\NacteniVypis\bin\Debug\NacteniVypis.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\NacteniVypis\bin\Debug\NacteniVypis.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\NacteniVypis\bin\Debug\NacteniVypis.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\NacteniVypis\obj\Debug\NacteniVypis.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\NacteniVypis\obj\Debug\NacteniVypis.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\NacteniVypis\obj\Debug\NacteniVypis.pdb
+C:\Users\Lapunik\Dropbox\C#\NacteniVypis\bin\Debug\NacteniVypis.exe.config
+C:\Users\Lapunik\Dropbox\C#\NacteniVypis\bin\Debug\NacteniVypis.exe
+C:\Users\Lapunik\Dropbox\C#\NacteniVypis\bin\Debug\NacteniVypis.pdb
+C:\Users\Lapunik\Dropbox\C#\NacteniVypis\obj\Debug\NacteniVypis.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\NacteniVypis\obj\Debug\NacteniVypis.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\NacteniVypis\obj\Debug\NacteniVypis.exe
+C:\Users\Lapunik\Dropbox\C#\NacteniVypis\obj\Debug\NacteniVypis.pdb
+C:\Users\Lapunik\Dropbox\C#\NacteniVypis\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\NacteniVypis\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\NacteniVypis\obj\Debug\NacteniVypis.csproj.CopyComplete

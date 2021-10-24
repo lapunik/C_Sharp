@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ServiceFullName">
+        <s:complexType />
+      </s:element>
+      <s:element name="ServiceFullNameResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ServiceFullNameResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetLastTemp">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="lines" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetLastTempResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetLastTempResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ServiceFullNameSoapIn">
+    <wsdl:part name="parameters" element="tns:ServiceFullName" />
+  </wsdl:message>
+  <wsdl:message name="ServiceFullNameSoapOut">
+    <wsdl:part name="parameters" element="tns:ServiceFullNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetLastTempSoapIn">
+    <wsdl:part name="parameters" element="tns:GetLastTemp" />
+  </wsdl:message>
+  <wsdl:message name="GetLastTempSoapOut">
+    <wsdl:part name="parameters" element="tns:GetLastTempResponse" />
+  </wsdl:message>
+  <wsdl:portType name="data_wsSoap">
+    <wsdl:operation name="ServiceFullName">
+      <wsdl:input message="tns:ServiceFullNameSoapIn" />
+      <wsdl:output message="tns:ServiceFullNameSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetLastTemp">
+      <wsdl:input message="tns:GetLastTempSoapIn" />
+      <wsdl:output message="tns:GetLastTempSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="data_wsSoap" type="tns:data_wsSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ServiceFullName">
+      <soap:operation soapAction="http://tempuri.org/ServiceFullName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetLastTemp">
+      <soap:operation soapAction="http://tempuri.org/GetLastTemp" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="data_wsSoap12" type="tns:data_wsSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ServiceFullName">
+      <soap12:operation soapAction="http://tempuri.org/ServiceFullName" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetLastTemp">
+      <soap12:operation soapAction="http://tempuri.org/GetLastTemp" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="data_ws">
+    <wsdl:port name="data_wsSoap" binding="tns:data_wsSoap">
+      <soap:address location="http://147.228.90.71/data_ws.asmx" />
+    </wsdl:port>
+    <wsdl:port name="data_wsSoap12" binding="tns:data_wsSoap12">
+      <soap12:address location="http://147.228.90.71/data_ws.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

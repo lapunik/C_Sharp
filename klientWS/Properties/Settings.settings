@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="klientWS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="klientWS_mojesluzba_WebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:52718/Sluzba.asmx</Value>
+    </Setting>
+    <Setting Name="klientWS_WebReference_data_ws" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://147.228.90.71/data_ws.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

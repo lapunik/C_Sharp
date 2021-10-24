@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerTrainTT", "TCPServerTrainTT\TCPServerTrainTT.csproj", "{16A8E70E-47CE-4565-BC8F-1D039E0E6F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainTTLibrary", "TrainTTLibrary\TrainTTLibrary.csproj", "{AA7029DD-A5AE-422D-BE23-288B0665F5D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualDebugControlTrainTT", "VisualDebugControlTrainTT\VisualDebugControlTrainTT.csproj", "{F16AF6D8-8E4D-45D7-B10C-9E5DA1B70378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimetableControlTrainTT", "TimetableControlTrainTT\TimetableControlTrainTT.csproj", "{3306C618-6A2F-4136-B1C5-F65F358F81A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eink32_Executor", "Eink32_Executor\Eink32_Executor.csproj", "{5C15DDA0-3606-437F-A680-6D684668F325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicatorOLED", "CommunicatorOLED\CommunicatorOLED.csproj", "{14EFB7F1-63DA-48A9-B731-7FF803A2ED6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A8E70E-47CE-4565-BC8F-1D039E0E6F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A8E70E-47CE-4565-BC8F-1D039E0E6F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A8E70E-47CE-4565-BC8F-1D039E0E6F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A8E70E-47CE-4565-BC8F-1D039E0E6F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7029DD-A5AE-422D-BE23-288B0665F5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7029DD-A5AE-422D-BE23-288B0665F5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7029DD-A5AE-422D-BE23-288B0665F5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7029DD-A5AE-422D-BE23-288B0665F5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F16AF6D8-8E4D-45D7-B10C-9E5DA1B70378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16AF6D8-8E4D-45D7-B10C-9E5DA1B70378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16AF6D8-8E4D-45D7-B10C-9E5DA1B70378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16AF6D8-8E4D-45D7-B10C-9E5DA1B70378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3306C618-6A2F-4136-B1C5-F65F358F81A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3306C618-6A2F-4136-B1C5-F65F358F81A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3306C618-6A2F-4136-B1C5-F65F358F81A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3306C618-6A2F-4136-B1C5-F65F358F81A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C15DDA0-3606-437F-A680-6D684668F325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C15DDA0-3606-437F-A680-6D684668F325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C15DDA0-3606-437F-A680-6D684668F325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C15DDA0-3606-437F-A680-6D684668F325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14EFB7F1-63DA-48A9-B731-7FF803A2ED6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14EFB7F1-63DA-48A9-B731-7FF803A2ED6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14EFB7F1-63DA-48A9-B731-7FF803A2ED6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14EFB7F1-63DA-48A9-B731-7FF803A2ED6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F339AA-0C6C-464D-B5F7-2BA9E22CFBAF}
+	EndGlobalSection
+EndGlobal

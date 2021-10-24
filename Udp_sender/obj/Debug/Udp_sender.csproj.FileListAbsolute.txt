@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\Udp_sender\bin\Debug\Udp_sender.exe.config
+C:\Users\Lapunik\Dropbox\C#\Udp_sender\bin\Debug\Udp_sender.exe
+C:\Users\Lapunik\Dropbox\C#\Udp_sender\bin\Debug\Udp_sender.pdb
+C:\Users\Lapunik\Dropbox\C#\Udp_sender\obj\Debug\Udp_sender.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Udp_sender\obj\Debug\Udp_sender.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Udp_sender\obj\Debug\Udp_sender.exe
+C:\Users\Lapunik\Dropbox\C#\Udp_sender\obj\Debug\Udp_sender.pdb
+C:\Users\Lapunik\Dropbox\C#\Udp_sender\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Udp_sender\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Udp_sender\obj\Debug\Udp_sender.csproj.CopyComplete

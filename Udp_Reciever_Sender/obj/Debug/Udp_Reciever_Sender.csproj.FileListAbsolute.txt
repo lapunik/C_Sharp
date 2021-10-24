@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\Udp_Reciever_Sender\bin\Debug\Udp_Reciever_Sender.exe.config
+C:\Users\Lapunik\Dropbox\C#\Udp_Reciever_Sender\bin\Debug\Udp_Reciever_Sender.exe
+C:\Users\Lapunik\Dropbox\C#\Udp_Reciever_Sender\bin\Debug\Udp_Reciever_Sender.pdb
+C:\Users\Lapunik\Dropbox\C#\Udp_Reciever_Sender\obj\Debug\Udp_Reciever_Sender.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Udp_Reciever_Sender\obj\Debug\Udp_Reciever_Sender.exe
+C:\Users\Lapunik\Dropbox\C#\Udp_Reciever_Sender\obj\Debug\Udp_Reciever_Sender.pdb
+C:\Users\Lapunik\Dropbox\C#\Udp_Reciever_Sender\obj\Debug\Udp_Reciever_Sender.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Udp_Reciever_Sender\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Udp_Reciever_Sender\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Udp_Reciever_Sender\obj\Debug\Udp_Reciever_Sender.csproj.CopyComplete

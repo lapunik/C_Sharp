@@ -1,0 +1,17 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\OsetreniUzivtelskychVstupu\bin\Debug\OsetreniUzivtelskychVstupu.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\OsetreniUzivtelskychVstupu\bin\Debug\OsetreniUzivtelskychVstupu.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\OsetreniUzivtelskychVstupu\bin\Debug\OsetreniUzivtelskychVstupu.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\OsetreniUzivtelskychVstupu\obj\Debug\OsetreniUzivtelskychVstupu.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\OsetreniUzivtelskychVstupu\obj\Debug\OsetreniUzivtelskychVstupu.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\OsetreniUzivtelskychVstupu\obj\Debug\OsetreniUzivtelskychVstupu.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\OsetreniUzivtelskychVstupu\obj\Debug\OsetreniUzivtelskychVstupu.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\OsetreniUzivtelskychVstupu\bin\Debug\OsetreniUzivtelskychVstupu.exe.config
+C:\Users\Lapunik\Dropbox\C#\OsetreniUzivtelskychVstupu\bin\Debug\OsetreniUzivtelskychVstupu.exe
+C:\Users\Lapunik\Dropbox\C#\OsetreniUzivtelskychVstupu\bin\Debug\OsetreniUzivtelskychVstupu.pdb
+C:\Users\Lapunik\Dropbox\C#\OsetreniUzivtelskychVstupu\obj\Debug\OsetreniUzivtelskychVstupu.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\OsetreniUzivtelskychVstupu\obj\Debug\OsetreniUzivtelskychVstupu.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\OsetreniUzivtelskychVstupu\obj\Debug\OsetreniUzivtelskychVstupu.exe
+C:\Users\Lapunik\Dropbox\C#\OsetreniUzivtelskychVstupu\obj\Debug\OsetreniUzivtelskychVstupu.pdb
+C:\Users\Lapunik\Dropbox\C#\OsetreniUzivtelskychVstupu\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\OsetreniUzivtelskychVstupu\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\OsetreniUzivtelskychVstupu\obj\Debug\OsetreniUzivtelskychVstupu.csproj.CopyComplete

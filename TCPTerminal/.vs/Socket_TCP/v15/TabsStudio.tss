@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>d:\atasoft\SkyDrive\Vyuka\PPES\Pokusy\Socket_TCP\SocketKlient\Klient_Form1.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\atasoft\SkyDrive\Vyuka\PPES\Pokusy\Socket_TCP\SocketSender\Sender_Form1.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\atasoft\SkyDrive\Vyuka\PPES\Pokusy\Socket_TCP\TerminalTCP\Main_Form.cs</string>
+      <string>d:\atasoft\SkyDrive\Vyuka\PPES\Pokusy\Socket_TCP\TerminalTCP\Main_Form.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\atasoft\SkyDrive\Vyuka\PPES\Pokusy\Socket_TCP\TerminalTCP\TCPBase.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\atasoft\SkyDrive\Vyuka\PPES\Pokusy\Socket_TCP\TerminalTCP\TCPClient.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

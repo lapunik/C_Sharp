@@ -1,0 +1,16 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\Podminky\bin\Debug\Podminky.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\Podminky\bin\Debug\Podminky.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Podminky\bin\Debug\Podminky.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Podminky\obj\Debug\Podminky.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Podminky\obj\Debug\Podminky.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Podminky\obj\Debug\Podminky.pdb
+C:\Users\Lapunik\Dropbox\C#\Podminky\bin\Debug\Podminky.exe.config
+C:\Users\Lapunik\Dropbox\C#\Podminky\bin\Debug\Podminky.exe
+C:\Users\Lapunik\Dropbox\C#\Podminky\bin\Debug\Podminky.pdb
+C:\Users\Lapunik\Dropbox\C#\Podminky\obj\Debug\Podminky.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Podminky\obj\Debug\Podminky.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Podminky\obj\Debug\Podminky.exe
+C:\Users\Lapunik\Dropbox\C#\Podminky\obj\Debug\Podminky.pdb
+C:\Users\Lapunik\Dropbox\C#\Podminky\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Podminky\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Podminky\obj\Debug\Podminky.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\bin\Debug\Carcasonne.exe.config
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\bin\Debug\Carcasonne.exe
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\bin\Debug\Carcasonne.pdb
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\obj\Debug\Carcasonne.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\obj\Debug\MainWindow.g.cs
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\obj\Debug\App.g.cs
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\obj\Debug\Carcasonne_MarkupCompile.cache
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\obj\Debug\Carcasonne_MarkupCompile.lref
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\obj\Debug\MainWindow.baml
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\obj\Debug\Carcasonne.g.resources
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\obj\Debug\Carcasonne.Properties.Resources.resources
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\obj\Debug\Carcasonne.csproj.GenerateResource.cache
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\obj\Debug\Carcasonne.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\obj\Debug\Carcasonne.exe
+C:\Users\Lapunik\Dropbox\C#\Carcasonne\obj\Debug\Carcasonne.pdb

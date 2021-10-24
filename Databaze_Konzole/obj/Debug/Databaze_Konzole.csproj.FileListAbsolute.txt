@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\Databaze_Konzole\bin\Debug\Databaze_Konzole.exe.config
+C:\Users\Lapunik\Dropbox\C#\Databaze_Konzole\bin\Debug\Databaze_Konzole.exe
+C:\Users\Lapunik\Dropbox\C#\Databaze_Konzole\bin\Debug\Databaze_Konzole.pdb
+C:\Users\Lapunik\Dropbox\C#\Databaze_Konzole\obj\Debug\Databaze_Konzole.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Databaze_Konzole\obj\Debug\Databaze_Konzole.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Databaze_Konzole\obj\Debug\Databaze_Konzole.exe
+C:\Users\Lapunik\Dropbox\C#\Databaze_Konzole\obj\Debug\Databaze_Konzole.pdb
+C:\Users\Lapunik\Dropbox\C#\Databaze_Konzole\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Databaze_Konzole\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Databaze_Konzole\obj\Debug\Databaze_Konzole.csproj.CopyComplete

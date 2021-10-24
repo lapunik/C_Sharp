@@ -1,0 +1,15 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\Rozhrani\bin\Debug\Rozhrani.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\Rozhrani\bin\Debug\Rozhrani.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Rozhrani\bin\Debug\Rozhrani.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Rozhrani\obj\Debug\Rozhrani.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Rozhrani\obj\Debug\Rozhrani.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Rozhrani\obj\Debug\Rozhrani.pdb
+C:\Users\Lapunik\Dropbox\C#\Rozhrani\bin\Debug\Rozhrani.exe.config
+C:\Users\Lapunik\Dropbox\C#\Rozhrani\bin\Debug\Rozhrani.exe
+C:\Users\Lapunik\Dropbox\C#\Rozhrani\bin\Debug\Rozhrani.pdb
+C:\Users\Lapunik\Dropbox\C#\Rozhrani\obj\Debug\Rozhrani.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Rozhrani\obj\Debug\Rozhrani.exe
+C:\Users\Lapunik\Dropbox\C#\Rozhrani\obj\Debug\Rozhrani.pdb
+C:\Users\Lapunik\Dropbox\C#\Rozhrani\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Rozhrani\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Rozhrani\obj\Debug\Rozhrani.csproj.CopyComplete

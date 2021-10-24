@@ -1,0 +1,15 @@
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\bin\Debug\First_WPF_app.exe.config
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\bin\Debug\First_WPF_app.exe
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\bin\Debug\First_WPF_app.pdb
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\obj\Debug\First_WPF_app.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\obj\Debug\MainWindow.g.cs
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\obj\Debug\App.g.cs
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\obj\Debug\First_WPF_app_MarkupCompile.cache
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\obj\Debug\First_WPF_app_MarkupCompile.lref
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\obj\Debug\MainWindow.baml
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\obj\Debug\First_WPF_app.g.resources
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\obj\Debug\First_WPF_app.Properties.Resources.resources
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\obj\Debug\First_WPF_app.csproj.GenerateResource.cache
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\obj\Debug\First_WPF_app.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\obj\Debug\First_WPF_app.exe
+C:\Users\Lapunik\Dropbox\C#\First_WPF_app\obj\Debug\First_WPF_app.pdb

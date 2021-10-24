@@ -1,0 +1,9 @@
+C:\Users\Lapunik\Dropbox\C#\Spocteni_radu_cifry\bin\Debug\Spocteni_radu_cifry.exe.config
+C:\Users\Lapunik\Dropbox\C#\Spocteni_radu_cifry\bin\Debug\Spocteni_radu_cifry.exe
+C:\Users\Lapunik\Dropbox\C#\Spocteni_radu_cifry\bin\Debug\Spocteni_radu_cifry.pdb
+C:\Users\Lapunik\Dropbox\C#\Spocteni_radu_cifry\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Spocteni_radu_cifry\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Spocteni_radu_cifry\obj\Debug\Spocteni_radu_cifry.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Spocteni_radu_cifry\obj\Debug\Spocteni_radu_cifry.csproj.CopyComplete
+C:\Users\Lapunik\Dropbox\C#\Spocteni_radu_cifry\obj\Debug\Spocteni_radu_cifry.exe
+C:\Users\Lapunik\Dropbox\C#\Spocteni_radu_cifry\obj\Debug\Spocteni_radu_cifry.pdb

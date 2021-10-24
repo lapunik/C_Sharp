@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\KlientWS_kurzovni_listek\bin\Debug\KlientWS_kurzovni_listek.exe.config
+C:\Users\Lapunik\Dropbox\C#\KlientWS_kurzovni_listek\bin\Debug\KlientWS_kurzovni_listek.exe
+C:\Users\Lapunik\Dropbox\C#\KlientWS_kurzovni_listek\bin\Debug\KlientWS_kurzovni_listek.pdb
+C:\Users\Lapunik\Dropbox\C#\KlientWS_kurzovni_listek\obj\Debug\KlientWS_kurzovni_listek.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\KlientWS_kurzovni_listek\obj\Debug\KlientWS_kurzovni_listek.exe
+C:\Users\Lapunik\Dropbox\C#\KlientWS_kurzovni_listek\obj\Debug\KlientWS_kurzovni_listek.pdb
+C:\Users\Lapunik\Dropbox\C#\KlientWS_kurzovni_listek\obj\Debug\KlientWS_kurzovni_listek.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\KlientWS_kurzovni_listek\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\KlientWS_kurzovni_listek\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\KlientWS_kurzovni_listek\obj\Debug\KlientWS_kurzovni_listek.csproj.CopyComplete

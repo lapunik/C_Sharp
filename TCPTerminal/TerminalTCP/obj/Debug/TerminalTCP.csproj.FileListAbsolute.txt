@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\TCPTerminal\TerminalTCP\bin\Debug\TerminalTCP.exe.config
+C:\Users\Lapunik\Dropbox\C#\TCPTerminal\TerminalTCP\bin\Debug\TerminalTCP.exe
+C:\Users\Lapunik\Dropbox\C#\TCPTerminal\TerminalTCP\bin\Debug\TerminalTCP.pdb
+C:\Users\Lapunik\Dropbox\C#\TCPTerminal\TerminalTCP\obj\Debug\TerminalTCP.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\TCPTerminal\TerminalTCP\obj\Debug\TerminalTCP.Main_Form.resources
+C:\Users\Lapunik\Dropbox\C#\TCPTerminal\TerminalTCP\obj\Debug\TerminalTCP.Properties.Resources.resources
+C:\Users\Lapunik\Dropbox\C#\TCPTerminal\TerminalTCP\obj\Debug\TerminalTCP.csproj.GenerateResource.cache
+C:\Users\Lapunik\Dropbox\C#\TCPTerminal\TerminalTCP\obj\Debug\TerminalTCP.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\TCPTerminal\TerminalTCP\obj\Debug\TerminalTCP.exe
+C:\Users\Lapunik\Dropbox\C#\TCPTerminal\TerminalTCP\obj\Debug\TerminalTCP.pdb

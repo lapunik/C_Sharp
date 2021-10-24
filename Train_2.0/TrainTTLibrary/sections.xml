@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item>
+    <Str>Sira_trat_leva</Str>
+    <Num>3</Num>
+  </Item>
+  <Item>
+    <Str>Beroun_kolej_A</Str>
+    <Num>3</Num>
+  </Item>
+  <Item>
+    <Str>Karlstejn_kolej_A</Str>
+    <Num>3</Num>
+  </Item>
+  <Item>
+    <Str>Beroun_kolej_B</Str>
+    <Num>3</Num>
+  </Item>
+  <Item>
+    <Str>Karlstejn_kolej_B</Str>
+    <Num>3</Num>
+  </Item>
+  <Item>
+    <Str>Lhota_kolej_C</Str>
+    <Num>3</Num>
+  </Item>
+  <Item>
+    <Str>Beroun_kolej_C</Str>
+    <Num>3</Num>
+  </Item>
+  <Item>
+    <Str>Sira_trat_prava</Str>
+    <Num>3</Num>
+  </Item>
+</ArrayOfItem>

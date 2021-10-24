@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\OnOffMonitor\bin\Debug\OnOffMonitor.exe.config
+C:\Users\Lapunik\Dropbox\C#\OnOffMonitor\bin\Debug\OnOffMonitor.exe
+C:\Users\Lapunik\Dropbox\C#\OnOffMonitor\bin\Debug\OnOffMonitor.pdb
+C:\Users\Lapunik\Dropbox\C#\OnOffMonitor\obj\Debug\OnOffMonitor.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\OnOffMonitor\obj\Debug\OnOffMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\OnOffMonitor\obj\Debug\OnOffMonitor.exe
+C:\Users\Lapunik\Dropbox\C#\OnOffMonitor\obj\Debug\OnOffMonitor.pdb
+C:\Users\Lapunik\Dropbox\C#\OnOffMonitor\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\OnOffMonitor\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\OnOffMonitor\obj\Debug\OnOffMonitor.csproj.CopyComplete

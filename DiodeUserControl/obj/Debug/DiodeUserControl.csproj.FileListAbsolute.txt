@@ -1,0 +1,13 @@
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\bin\Debug\DiodeUserControl.exe.config
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\bin\Debug\DiodeUserControl.exe
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\bin\Debug\DiodeUserControl.pdb
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\obj\Debug\DiodeUserControl.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\obj\Debug\DiodeUserControl.Properties.Resources.resources
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\obj\Debug\DiodeUserControl.csproj.GenerateResource.cache
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\obj\Debug\DiodeUserControl.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\obj\Debug\DiodeUserControl.exe
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\obj\Debug\DiodeUserControl.pdb
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\obj\Debug\DiodeUserControl.Form1.resources
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\DiodeUserControl\obj\Debug\DiodeUserControl.csproj.CopyComplete

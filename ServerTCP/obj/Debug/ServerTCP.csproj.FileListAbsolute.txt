@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\Lapunik\Dropbox\C#\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\Lapunik\Dropbox\C#\ServerTCP\bin\Debug\ServerTCP.pdb
+C:\Users\Lapunik\Dropbox\C#\ServerTCP\obj\Debug\ServerTCP.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\Lapunik\Dropbox\C#\ServerTCP\obj\Debug\ServerTCP.pdb
+C:\Users\Lapunik\Dropbox\C#\ServerTCP\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\ServerTCP\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\ServerTCP\obj\Debug\ServerTCP.csproj.CopyComplete

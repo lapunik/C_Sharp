@@ -1,0 +1,13 @@
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\bin\Debug\Databaze_Klikaci.exe.config
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\bin\Debug\Databaze_Klikaci.exe
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\bin\Debug\Databaze_Klikaci.pdb
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\obj\Debug\Databaze_Klikaci.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\obj\Debug\Databaze_Klikaci.Form1.resources
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\obj\Debug\Databaze_Klikaci.Properties.Resources.resources
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\obj\Debug\Databaze_Klikaci.csproj.GenerateResource.cache
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\obj\Debug\Databaze_Klikaci.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\obj\Debug\Databaze_Klikaci.exe
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\obj\Debug\Databaze_Klikaci.pdb
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Databaze_Klikaci\obj\Debug\Databaze_Klikaci.csproj.CopyComplete

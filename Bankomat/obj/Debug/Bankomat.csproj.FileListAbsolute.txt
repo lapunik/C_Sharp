@@ -1,0 +1,9 @@
+C:\Users\Lapunik\Dropbox\C#\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\Lapunik\Dropbox\C#\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\Lapunik\Dropbox\C#\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\Lapunik\Dropbox\C#\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\Lapunik\Dropbox\C#\Bankomat\obj\Debug\Bankomat.pdb
+C:\Users\Lapunik\Dropbox\C#\Bankomat\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Bankomat\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Bankomat\obj\Debug\Bankomat.csproj.CopyComplete

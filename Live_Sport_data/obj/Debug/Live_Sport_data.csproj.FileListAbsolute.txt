@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\Live_Sport_data\bin\Debug\Live_Sport_data.exe.config
+C:\Users\Lapunik\Dropbox\C#\Live_Sport_data\bin\Debug\Live_Sport_data.exe
+C:\Users\Lapunik\Dropbox\C#\Live_Sport_data\bin\Debug\Live_Sport_data.pdb
+C:\Users\Lapunik\Dropbox\C#\Live_Sport_data\obj\Debug\Live_Sport_data.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Live_Sport_data\obj\Debug\Live_Sport_data.exe
+C:\Users\Lapunik\Dropbox\C#\Live_Sport_data\obj\Debug\Live_Sport_data.pdb
+C:\Users\Lapunik\Dropbox\C#\Live_Sport_data\obj\Debug\Live_Sport_data.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Live_Sport_data\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Live_Sport_data\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Live_Sport_data\obj\Debug\Live_Sport_data.csproj.CopyComplete

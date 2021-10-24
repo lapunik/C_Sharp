@@ -1,0 +1,15 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\Fronta\bin\Debug\Fronta.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\Fronta\bin\Debug\Fronta.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Fronta\bin\Debug\Fronta.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Fronta\obj\Debug\Fronta.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Fronta\obj\Debug\Fronta.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Fronta\obj\Debug\Fronta.pdb
+C:\Users\Lapunik\Dropbox\C#\Fronta\bin\Debug\Fronta.exe.config
+C:\Users\Lapunik\Dropbox\C#\Fronta\bin\Debug\Fronta.exe
+C:\Users\Lapunik\Dropbox\C#\Fronta\bin\Debug\Fronta.pdb
+C:\Users\Lapunik\Dropbox\C#\Fronta\obj\Debug\Fronta.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Fronta\obj\Debug\Fronta.exe
+C:\Users\Lapunik\Dropbox\C#\Fronta\obj\Debug\Fronta.pdb
+C:\Users\Lapunik\Dropbox\C#\Fronta\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Fronta\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Fronta\obj\Debug\Fronta.csproj.CopyComplete

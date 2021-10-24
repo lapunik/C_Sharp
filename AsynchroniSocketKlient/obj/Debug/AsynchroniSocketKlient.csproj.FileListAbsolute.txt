@@ -1,0 +1,7 @@
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\AsynchroniSocketKlient\bin\Debug\AsynchroniSocketKlient.exe.config
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\AsynchroniSocketKlient\bin\Debug\AsynchroniSocketKlient.exe
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\AsynchroniSocketKlient\bin\Debug\AsynchroniSocketKlient.pdb
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\AsynchroniSocketKlient\obj\Debug\AsynchroniSocketKlient.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\AsynchroniSocketKlient\obj\Debug\AsynchroniSocketKlient.exe
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\AsynchroniSocketKlient\obj\Debug\AsynchroniSocketKlient.pdb
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\AsynchroniSocketKlient\obj\Debug\AsynchroniSocketKlient.csprojAssemblyReference.cache

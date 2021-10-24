@@ -1,0 +1,7 @@
+C:\Users\Lapunik\Dropbox\Train_2.0\TCPServerTrinTT\bin\Debug\TCPServerTrinTT.exe.config
+C:\Users\Lapunik\Dropbox\Train_2.0\TCPServerTrinTT\bin\Debug\TCPServerTrinTT.exe
+C:\Users\Lapunik\Dropbox\Train_2.0\TCPServerTrinTT\bin\Debug\TCPServerTrinTT.pdb
+C:\Users\Lapunik\Dropbox\Train_2.0\TCPServerTrinTT\obj\Debug\TCPServerTrinTT.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\Train_2.0\TCPServerTrinTT\obj\Debug\TCPServerTrinTT.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\Train_2.0\TCPServerTrinTT\obj\Debug\TCPServerTrinTT.exe
+C:\Users\Lapunik\Dropbox\Train_2.0\TCPServerTrinTT\obj\Debug\TCPServerTrinTT.pdb

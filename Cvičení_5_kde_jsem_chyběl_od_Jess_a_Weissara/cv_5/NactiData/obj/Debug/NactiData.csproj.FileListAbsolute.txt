@@ -1,0 +1,9 @@
+C:\Users\Lapunik\Desktop\cv_5\NactiData\bin\Debug\NactiData.exe.config
+C:\Users\Lapunik\Desktop\cv_5\NactiData\bin\Debug\NactiData.exe
+C:\Users\Lapunik\Desktop\cv_5\NactiData\bin\Debug\NactiData.pdb
+C:\Users\Lapunik\Desktop\cv_5\NactiData\obj\Debug\NactiData.Form1.resources
+C:\Users\Lapunik\Desktop\cv_5\NactiData\obj\Debug\NactiData.Properties.Resources.resources
+C:\Users\Lapunik\Desktop\cv_5\NactiData\obj\Debug\NactiData.csproj.GenerateResource.cache
+C:\Users\Lapunik\Desktop\cv_5\NactiData\obj\Debug\NactiData.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Desktop\cv_5\NactiData\obj\Debug\NactiData.exe
+C:\Users\Lapunik\Desktop\cv_5\NactiData\obj\Debug\NactiData.pdb

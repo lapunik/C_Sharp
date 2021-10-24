@@ -1,0 +1,5 @@
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TrainTTLibrary\bin\Release\TrainTTLibrary.dll
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TrainTTLibrary\bin\Release\TrainTTLibrary.pdb
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TrainTTLibrary\obj\Release\TrainTTLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TrainTTLibrary\obj\Release\TrainTTLibrary.dll
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TrainTTLibrary\obj\Release\TrainTTLibrary.pdb

@@ -1,0 +1,240 @@
+1;1. FC Slovácko;FK Jablonec
+1;AC Sparta Praha;Bohemians Praha 1905
+1;FC Slovan Liberec;Fastav Zlín
+1;FC Viktoria Plzeò;FK Dukla Praha
+1;FC Zbrojovka Brno;Baník Ostrava
+1;FK Mladá Boleslav;SK Sigma Olomouc
+1;MFD OKD Karviná;FC Vysoèina Jihlava
+1;SK Slavia Praha;FK Teplice
+2;Baník Ostrava;SK Slavia Praha
+2;Bohemians Praha 1905;MFD OKD Karviná
+2;Fastav Zlín;FC Zbrojovka Brno
+2;FC Vysoèina Jihlava;1. FC Slovácko
+2;FK Jablonec;FC Viktoria Plzeò
+2;FK Mladá Boleslav;AC Sparta Praha
+2;FK Teplice;FK Dukla Praha
+2;SK Sigma Olomouc;FC Slovan Liberec
+3;1. FC Slovácko;Baník Ostrava
+3;FC Slovan Liberec;AC Sparta Praha
+3;FC Viktoria Plzeò;SK Sigma Olomouc
+3;FC Zbrojovka Brno;Bohemians Praha 1905
+3;FK Dukla Praha;Fastav Zlín
+3;FK Teplice;FK Jablonec
+3;MFD OKD Karviná;FK Mladá Boleslav
+3;SK Slavia Praha;FC Vysoèina Jihlava
+4;AC Sparta Praha;1. FC Slovácko
+4;Baník Ostrava;FK Teplice
+4;Bohemians Praha 1905;SK Slavia Praha
+4;Fastav Zlín;MFD OKD Karviná
+4;FC Vysoèina Jihlava;FC Viktoria Plzeò
+4;FK Jablonec;FK Dukla Praha
+4;FK Mladá Boleslav;FC Slovan Liberec
+4;SK Sigma Olomouc;FC Zbrojovka Brno
+5;1. FC Slovácko;SK Sigma Olomouc
+5;FC Viktoria Plzeò;Baník Ostrava
+5;FC Zbrojovka Brno;AC Sparta Praha
+5;FK Dukla Praha;Bohemians Praha 1905
+5;FK Jablonec;Fastav Zlín
+5;FK Teplice;FC Vysoèina Jihlava
+5;MFD OKD Karviná;FC Slovan Liberec
+5;SK Slavia Praha;FK Mladá Boleslav
+6;AC Sparta Praha;MFD OKD Karviná
+6;Baník Ostrava;FK Jablonec
+6;Bohemians Praha 1905;1. FC Slovácko
+6;Fastav Zlín;FK Teplice
+6;FC Slovan Liberec;FC Viktoria Plzeò
+6;FC Vysoèina Jihlava;FK Dukla Praha
+6;FK Mladá Boleslav;FC Zbrojovka Brno
+6;SK Sigma Olomouc;SK Slavia Praha
+7;1. FC Slovácko;FK Mladá Boleslav
+7;FC Viktoria Plzeò;Fastav Zlín
+7;FC Zbrojovka Brno;FC Slovan Liberec
+7;FK Dukla Praha;Baník Ostrava
+7;FK Jablonec;FC Vysoèina Jihlava
+7;FK Teplice;Bohemians Praha 1905
+7;MFD OKD Karviná;SK Sigma Olomouc
+7;SK Slavia Praha;AC Sparta Praha
+8;AC Sparta Praha;FK Teplice
+8;Bohemians Praha 1905;FK Jablonec
+8;Fastav Zlín;SK Slavia Praha
+8;FC Slovan Liberec;1. FC Slovácko
+8;FC Vysoèina Jihlava;Baník Ostrava
+8;FK Mladá Boleslav;FC Viktoria Plzeò
+8;MFD OKD Karviná;FC Zbrojovka Brno
+8;SK Sigma Olomouc;FK Dukla Praha
+9;1. FC Slovácko;MFD OKD Karviná
+9;Baník Ostrava;Fastav Zlín
+9;FC Viktoria Plzeò;Bohemians Praha 1905
+9;FC Vysoèina Jihlava;SK Sigma Olomouc
+9;FK Dukla Praha;AC Sparta Praha
+9;FK Jablonec;FK Mladá Boleslav
+9;FK Teplice;FC Slovan Liberec
+9;SK Slavia Praha;FC Zbrojovka Brno
+10;AC Sparta Praha;FC Viktoria Plzeò
+10;Bohemians Praha 1905;Baník Ostrava
+10;Fastav Zlín;FC Vysoèina Jihlava
+10;FC Slovan Liberec;FK Dukla Praha
+10;FC Zbrojovka Brno;1. FC Slovácko
+10;FK Mladá Boleslav;FK Teplice
+10;MFD OKD Karviná;SK Slavia Praha
+10;SK Sigma Olomouc;FK Jablonec
+11;Baník Ostrava;SK Sigma Olomouc
+11;Fastav Zlín;FK Mladá Boleslav
+11;FC Viktoria Plzeò;FC Zbrojovka Brno
+11;FC Vysoèina Jihlava;Bohemians Praha 1905
+11;FK Dukla Praha;1. FC Slovácko
+11;FK Jablonec;AC Sparta Praha
+11;FK Teplice;MFD OKD Karviná
+11;SK Slavia Praha;FC Slovan Liberec
+12;1. FC Slovácko;SK Slavia Praha
+12;AC Sparta Praha;Baník Ostrava
+12;Bohemians Praha 1905;Fastav Zlín
+12;FC Slovan Liberec;FK Jablonec
+12;FC Zbrojovka Brno;FK Dukla Praha
+12;FK Mladá Boleslav;FC Vysoèina Jihlava
+12;MFD OKD Karviná;FC Viktoria Plzeò
+12;SK Sigma Olomouc;FK Teplice
+13;Baník Ostrava;FK Mladá Boleslav
+13;Bohemians Praha 1905;SK Sigma Olomouc
+13;Fastav Zlín;AC Sparta Praha
+13;FC Viktoria Plzeò;SK Slavia Praha
+13;FC Vysoèina Jihlava;FC Slovan Liberec
+13;FK Dukla Praha;MFD OKD Karviná
+13;FK Jablonec;FC Zbrojovka Brno
+13;FK Teplice;1. FC Slovácko
+14;1. FC Slovácko;FC Viktoria Plzeò
+14;AC Sparta Praha;FC Vysoèina Jihlava
+14;FC Slovan Liberec;Baník Ostrava
+14;FC Zbrojovka Brno;FK Teplice
+14;FK Mladá Boleslav;Bohemians Praha 1905
+14;MFD OKD Karviná;FK Jablonec
+14;SK Sigma Olomouc;Fastav Zlín
+14;SK Slavia Praha;FK Dukla Praha
+15;Baník Ostrava;MFD OKD Karviná
+15;Bohemians Praha 1905;FC Slovan Liberec
+15;Fastav Zlín;1. FC Slovácko
+15;FC Vysoèina Jihlava;FC Zbrojovka Brno
+15;FK Dukla Praha;FK Mladá Boleslav
+15;FK Jablonec;SK Slavia Praha
+15;FK Teplice;FC Viktoria Plzeò
+15;SK Sigma Olomouc;AC Sparta Praha
+16;1. FC Slovácko;FC Vysoèina Jihlava
+16;AC Sparta Praha;FK Mladá Boleslav
+16;FC Slovan Liberec;SK Sigma Olomouc
+16;FC Viktoria Plzeò;FK Jablonec
+16;FC Zbrojovka Brno;Fastav Zlín
+16;FK Dukla Praha;FK Teplice
+16;MFD OKD Karviná;Bohemians Praha 1905
+16;SK Slavia Praha;Baník Ostrava
+17;AC Sparta Praha;FC Slovan Liberec
+17;Baník Ostrava;1. FC Slovácko
+17;Bohemians Praha 1905;FC Zbrojovka Brno
+17;Fastav Zlín;FK Dukla Praha
+17;FC Vysoèina Jihlava;SK Slavia Praha
+17;FK Jablonec;FK Teplice
+17;FK Mladá Boleslav;MFD OKD Karviná
+17;SK Sigma Olomouc;FC Viktoria Plzeò
+18;1. FC Slovácko;AC Sparta Praha
+18;FC Slovan Liberec;FK Mladá Boleslav
+18;FC Viktoria Plzeò;FC Vysoèina Jihlava
+18;FC Zbrojovka Brno;SK Sigma Olomouc
+18;FK Dukla Praha;FK Jablonec
+18;FK Teplice;Baník Ostrava
+18;MFD OKD Karviná;Fastav Zlín
+18;SK Slavia Praha;Bohemians Praha 1905
+19;AC Sparta Praha;FC Zbrojovka Brno
+19;Baník Ostrava;FC Viktoria Plzeò
+19;Bohemians Praha 1905;FK Dukla Praha
+19;Fastav Zlín;FK Jablonec
+19;FC Slovan Liberec;MFD OKD Karviná
+19;FC Vysoèina Jihlava;FK Teplice
+19;FK Mladá Boleslav;SK Slavia Praha
+19;SK Sigma Olomouc;1. FC Slovácko
+20;1. FC Slovácko;Bohemians Praha 1905
+20;FC Viktoria Plzeò;FC Slovan Liberec
+20;FC Zbrojovka Brno;FK Mladá Boleslav
+20;FK Dukla Praha;FC Vysoèina Jihlava
+20;FK Jablonec;Baník Ostrava
+20;FK Teplice;Fastav Zlín
+20;MFD OKD Karviná;AC Sparta Praha
+20;SK Slavia Praha;SK Sigma Olomouc
+21;AC Sparta Praha;SK Slavia Praha
+21;Baník Ostrava;FK Dukla Praha
+21;Bohemians Praha 1905;FK Teplice
+21;Fastav Zlín;FC Viktoria Plzeò
+21;FC Slovan Liberec;FC Zbrojovka Brno
+21;FC Vysoèina Jihlava;FK Jablonec
+21;FK Mladá Boleslav;1. FC Slovácko
+21;SK Sigma Olomouc;MFD OKD Karviná
+22;1. FC Slovácko;FC Slovan Liberec
+22;Baník Ostrava;FC Vysoèina Jihlava
+22;FC Viktoria Plzeò;FK Mladá Boleslav
+22;FC Zbrojovka Brno;MFD OKD Karviná
+22;FK Dukla Praha;SK Sigma Olomouc
+22;FK Jablonec;Bohemians Praha 1905
+22;FK Teplice;AC Sparta Praha
+22;SK Slavia Praha;Fastav Zlín
+23;AC Sparta Praha;FK Dukla Praha
+23;Bohemians Praha 1905;FC Viktoria Plzeò
+23;Fastav Zlín;Baník Ostrava
+23;FC Slovan Liberec;FK Teplice
+23;FC Zbrojovka Brno;SK Slavia Praha
+23;FK Mladá Boleslav;FK Jablonec
+23;MFD OKD Karviná;1. FC Slovácko
+23;SK Sigma Olomouc;FC Vysoèina Jihlava
+24;1. FC Slovácko;FC Zbrojovka Brno
+24;Baník Ostrava;Bohemians Praha 1905
+24;FC Viktoria Plzeò;AC Sparta Praha
+24;FC Vysoèina Jihlava;Fastav Zlín
+24;FK Dukla Praha;FC Slovan Liberec
+24;FK Jablonec;SK Sigma Olomouc
+24;FK Teplice;FK Mladá Boleslav
+24;SK Slavia Praha;MFD OKD Karviná
+25;1. FC Slovácko;FK Dukla Praha
+25;AC Sparta Praha;FK Jablonec
+25;Bohemians Praha 1905;FC Vysoèina Jihlava
+25;FC Slovan Liberec;SK Slavia Praha
+25;FC Zbrojovka Brno;FC Viktoria Plzeò
+25;FK Mladá Boleslav;Fastav Zlín
+25;MFD OKD Karviná;FK Teplice
+25;SK Sigma Olomouc;Baník Ostrava
+26;Baník Ostrava;AC Sparta Praha
+26;Fastav Zlín;Bohemians Praha 1905
+26;FC Viktoria Plzeò;MFD OKD Karviná
+26;FC Vysoèina Jihlava;FK Mladá Boleslav
+26;FK Dukla Praha;FC Zbrojovka Brno
+26;FK Jablonec;FC Slovan Liberec
+26;FK Teplice;SK Sigma Olomouc
+26;SK Slavia Praha;1. FC Slovácko
+27;1. FC Slovácko;FK Teplice
+27;AC Sparta Praha;Fastav Zlín
+27;FC Slovan Liberec;FC Vysoèina Jihlava
+27;FC Zbrojovka Brno;FK Jablonec
+27;FK Mladá Boleslav;Baník Ostrava
+27;MFD OKD Karviná;FK Dukla Praha
+27;SK Sigma Olomouc;Bohemians Praha 1905
+27;SK Slavia Praha;FC Viktoria Plzeò
+28;Baník Ostrava;FC Slovan Liberec
+28;Bohemians Praha 1905;FK Mladá Boleslav
+28;Fastav Zlín;SK Sigma Olomouc
+28;FC Viktoria Plzeò;1. FC Slovácko
+28;FC Vysoèina Jihlava;AC Sparta Praha
+28;FK Dukla Praha;SK Slavia Praha
+28;FK Jablonec;MFD OKD Karviná
+28;FK Teplice;FC Zbrojovka Brno
+29;1. FC Slovácko;Fastav Zlín
+29;AC Sparta Praha;SK Sigma Olomouc
+29;FC Slovan Liberec;Bohemians Praha 1905
+29;FC Viktoria Plzeò;FK Teplice
+29;FC Zbrojovka Brno;FC Vysoèina Jihlava
+29;FK Mladá Boleslav;FK Dukla Praha
+29;MFD OKD Karviná;Baník Ostrava
+29;SK Slavia Praha;FK Jablonec
+30;Baník Ostrava;FC Zbrojovka Brno
+30;Bohemians Praha 1905;AC Sparta Praha
+30;Fastav Zlín;FC Slovan Liberec
+30;FC Vysoèina Jihlava;MFD OKD Karviná
+30;FK Dukla Praha;FC Viktoria Plzeò
+30;FK Jablonec;1. FC Slovácko
+30;FK Teplice;SK Slavia Praha
+30;SK Sigma Olomouc;FK Mladá Boleslav

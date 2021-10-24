@@ -1,0 +1,16 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\Pole\bin\Debug\Pole.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\Pole\bin\Debug\Pole.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Pole\bin\Debug\Pole.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Pole\obj\Debug\Pole.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Pole\obj\Debug\Pole.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Pole\obj\Debug\Pole.pdb
+C:\Users\Lapunik\Dropbox\C#\Pole\bin\Debug\Pole.exe.config
+C:\Users\Lapunik\Dropbox\C#\Pole\bin\Debug\Pole.exe
+C:\Users\Lapunik\Dropbox\C#\Pole\bin\Debug\Pole.pdb
+C:\Users\Lapunik\Dropbox\C#\Pole\obj\Debug\Pole.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Pole\obj\Debug\Pole.exe
+C:\Users\Lapunik\Dropbox\C#\Pole\obj\Debug\Pole.pdb
+C:\Users\Lapunik\Dropbox\C#\Pole\obj\Debug\Pole.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Pole\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Pole\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Pole\obj\Debug\Pole.csproj.CopyComplete

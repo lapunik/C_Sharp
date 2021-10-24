@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\Udalosti\bin\Debug\Udalosti.exe.config
+C:\Users\Lapunik\Dropbox\C#\Udalosti\bin\Debug\Udalosti.exe
+C:\Users\Lapunik\Dropbox\C#\Udalosti\bin\Debug\Udalosti.pdb
+C:\Users\Lapunik\Dropbox\C#\Udalosti\obj\Debug\Udalosti.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Udalosti\obj\Debug\Udalosti.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Udalosti\obj\Debug\Udalosti.exe
+C:\Users\Lapunik\Dropbox\C#\Udalosti\obj\Debug\Udalosti.pdb
+C:\Users\Lapunik\Dropbox\C#\Udalosti\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Udalosti\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Udalosti\obj\Debug\Udalosti.csproj.CopyComplete

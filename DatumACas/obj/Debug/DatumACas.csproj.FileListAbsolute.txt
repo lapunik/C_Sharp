@@ -1,0 +1,15 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\DatumACas\bin\Debug\DatumACas.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\DatumACas\bin\Debug\DatumACas.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\DatumACas\bin\Debug\DatumACas.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\DatumACas\obj\Debug\DatumACas.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\DatumACas\obj\Debug\DatumACas.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\DatumACas\obj\Debug\DatumACas.pdb
+C:\Users\Lapunik\Dropbox\C#\DatumACas\bin\Debug\DatumACas.exe.config
+C:\Users\Lapunik\Dropbox\C#\DatumACas\bin\Debug\DatumACas.exe
+C:\Users\Lapunik\Dropbox\C#\DatumACas\bin\Debug\DatumACas.pdb
+C:\Users\Lapunik\Dropbox\C#\DatumACas\obj\Debug\DatumACas.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\DatumACas\obj\Debug\DatumACas.exe
+C:\Users\Lapunik\Dropbox\C#\DatumACas\obj\Debug\DatumACas.pdb
+C:\Users\Lapunik\Dropbox\C#\DatumACas\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\DatumACas\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\DatumACas\obj\Debug\DatumACas.csproj.CopyComplete

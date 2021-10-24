@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\Web_Client_Weather\bin\Debug\Web_Client_Weather.exe.config
+C:\Users\Lapunik\Dropbox\C#\Web_Client_Weather\bin\Debug\Web_Client_Weather.exe
+C:\Users\Lapunik\Dropbox\C#\Web_Client_Weather\bin\Debug\Web_Client_Weather.pdb
+C:\Users\Lapunik\Dropbox\C#\Web_Client_Weather\obj\Debug\Web_Client_Weather.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Web_Client_Weather\obj\Debug\Web_Client_Weather.exe
+C:\Users\Lapunik\Dropbox\C#\Web_Client_Weather\obj\Debug\Web_Client_Weather.pdb
+C:\Users\Lapunik\Dropbox\C#\Web_Client_Weather\obj\Debug\Web_Client_Weather.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Web_Client_Weather\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Web_Client_Weather\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Web_Client_Weather\obj\Debug\Web_Client_Weather.csproj.CopyComplete

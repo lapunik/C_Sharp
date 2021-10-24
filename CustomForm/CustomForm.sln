@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomForm", "CustomForm.csproj", "{C8589A0F-CED9-461E-873A-F2E6FCCED006}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C8589A0F-CED9-461E-873A-F2E6FCCED006}.Debug.ActiveCfg = Debug|.NET
+		{C8589A0F-CED9-461E-873A-F2E6FCCED006}.Debug.Build.0 = Debug|.NET
+		{C8589A0F-CED9-461E-873A-F2E6FCCED006}.Release.ActiveCfg = Release|.NET
+		{C8589A0F-CED9-461E-873A-F2E6FCCED006}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

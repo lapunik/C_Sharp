@@ -1,0 +1,7 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\Lode\bin\Debug\Lode.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\Lode\bin\Debug\Lode.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Lode\bin\Debug\Lode.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Lode\obj\Debug\Lode.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Lode\obj\Debug\Lode.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Lode\obj\Debug\Lode.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Lode\obj\Debug\Lode.pdb

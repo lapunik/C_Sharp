@@ -1,0 +1,13 @@
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\bin\Debug\Klikaci_app_cv5.exe.config
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\bin\Debug\Klikaci_app_cv5.exe
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\bin\Debug\Klikaci_app_cv5.pdb
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\obj\Debug\Klikaci_app_cv5.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\obj\Debug\Klikaci_app_cv5.Form1.resources
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\obj\Debug\Klikaci_app_cv5.Properties.Resources.resources
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\obj\Debug\Klikaci_app_cv5.csproj.GenerateResource.cache
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\obj\Debug\Klikaci_app_cv5.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\obj\Debug\Klikaci_app_cv5.exe
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\obj\Debug\Klikaci_app_cv5.pdb
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\bin\Debug\ase_knihovna.dll
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\bin\Debug\ase_knihovna.pdb
+C:\Users\Lapunik\Dropbox\C#\Klikaci_app_cv5\obj\Debug\Klikaci_app_cv5.csproj.CopyComplete

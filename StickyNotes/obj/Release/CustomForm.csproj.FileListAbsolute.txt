@@ -1,0 +1,6 @@
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\bin\Release\CustomForm.exe
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Release\CustomForm.csprojAssemblyReference.cache
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Release\CustomForm.Form1.resources
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Release\CustomForm.csproj.GenerateResource.cache
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Release\CustomForm.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Release\CustomForm.exe

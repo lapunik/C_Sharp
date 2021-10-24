@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminalTCP", "TerminalTCP\TerminalTCP.csproj", "{B66FB903-F1A7-4556-A5F2-9E6ABED5CB9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B66FB903-F1A7-4556-A5F2-9E6ABED5CB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66FB903-F1A7-4556-A5F2-9E6ABED5CB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66FB903-F1A7-4556-A5F2-9E6ABED5CB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66FB903-F1A7-4556-A5F2-9E6ABED5CB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F339AA-0C6C-464D-B5F7-2BA9E22CFBAF}
+	EndGlobalSection
+EndGlobal

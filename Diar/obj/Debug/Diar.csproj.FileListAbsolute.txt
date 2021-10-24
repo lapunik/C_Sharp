@@ -1,0 +1,15 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\Diar\bin\Debug\Diar.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\Diar\bin\Debug\Diar.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Diar\bin\Debug\Diar.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Diar\obj\Debug\Diar.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Diar\obj\Debug\Diar.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Diar\obj\Debug\Diar.pdb
+C:\Users\Lapunik\Dropbox\C#\Diar\bin\Debug\Diar.exe.config
+C:\Users\Lapunik\Dropbox\C#\Diar\bin\Debug\Diar.exe
+C:\Users\Lapunik\Dropbox\C#\Diar\bin\Debug\Diar.pdb
+C:\Users\Lapunik\Dropbox\C#\Diar\obj\Debug\Diar.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Diar\obj\Debug\Diar.exe
+C:\Users\Lapunik\Dropbox\C#\Diar\obj\Debug\Diar.pdb
+C:\Users\Lapunik\Dropbox\C#\Diar\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Diar\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Diar\obj\Debug\Diar.csproj.CopyComplete

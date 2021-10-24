@@ -1,0 +1,31 @@
+﻿<Window x:Class="First_WPF_app.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:First_WPF_app"
+        mc:Ignorable="d"
+        Title="Pozdrav" Height="200" Width="320"
+        WindowStartupLocation="CenterScreen"
+        >
+    <Grid Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.3*"/>
+        </Grid.RowDefinitions>
+        <!-- Všechny prvky mají defalutně "Fill" to odpovídá (Vertical/Horizontal)Alignment="Stretch"  -->
+        <TextBlock HorizontalAlignment    = "Center"  VerticalAlignment    = "Center"  Margin="0,0,0,0"                       Padding         = "0,0,0,0"                       Height      = "Auto"                                                    Width       = "Auto"    MaxHeight="60" MaxWidth="100" MinHeight="20" MinWidth="40" Grid.Column   ="0"    Grid.Row        = "0"    ><Run Text="Pozdrav" FontSize="20" Cursor="No" /><LineBreak/><Run/></TextBlock>
+        <!--       Horizontální zarovnání = na střed, Vertikální zarovnání = na střed, Vnější rámeček = "levý,horní,pravý,spodní okraj" Vnitřní rámeček = "levý,horní,pravý,spodní okraj" Pevná šířka = (např 40 pix nebo auto (přizpůsobí se velikosti obsahu))  Pevná výška = -||-      Minimální a maximální velikosti objektu          Řádek v mříce = první Sloupec v mříce = první-->
+        <Button Name="btn" Content="Go" Width="80" VerticalAlignment="Center" Grid.Row="0" Grid.Column="1" Click="btn_Click" Background="LightGoldenrodYellow" Foreground="Black"/>
+        <ComboBox Width="100" Grid.Row="1" Grid.Column="0"  Margin="0,0,0,0" SelectedIndex="0" HorizontalAlignment="Center" Height="20" VerticalAlignment="Center">
+        <ComboBoxItem Content="Item jedna"/>
+        <ComboBoxItem Content="Item dva"/>
+        <Button Name="combo_btn" Content="Ahoj" Click="combo_btn_Click"/>
+        </ComboBox>
+        <Label Name="led" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>

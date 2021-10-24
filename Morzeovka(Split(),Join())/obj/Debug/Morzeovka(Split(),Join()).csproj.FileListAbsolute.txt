@@ -1,0 +1,16 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\Morzeovka(Split(),Join())\bin\Debug\Morzeovka(Split(),Join()).exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\Morzeovka(Split(),Join())\bin\Debug\Morzeovka(Split(),Join()).exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Morzeovka(Split(),Join())\bin\Debug\Morzeovka(Split(),Join()).pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Morzeovka(Split(),Join())\obj\Debug\Morzeovka(Split(),Join()).csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Morzeovka(Split(),Join())\obj\Debug\Morzeovka(Split(),Join()).exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Morzeovka(Split(),Join())\obj\Debug\Morzeovka(Split(),Join()).pdb
+C:\Users\Lapunik\Dropbox\C#\Morzeovka(Split(),Join())\bin\Debug\Morzeovka(Split(),Join()).exe.config
+C:\Users\Lapunik\Dropbox\C#\Morzeovka(Split(),Join())\bin\Debug\Morzeovka(Split(),Join()).exe
+C:\Users\Lapunik\Dropbox\C#\Morzeovka(Split(),Join())\bin\Debug\Morzeovka(Split(),Join()).pdb
+C:\Users\Lapunik\Dropbox\C#\Morzeovka(Split(),Join())\obj\Debug\Morzeovka(Split(),Join()).csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Morzeovka(Split(),Join())\obj\Debug\Morzeovka(Split(),Join()).exe
+C:\Users\Lapunik\Dropbox\C#\Morzeovka(Split(),Join())\obj\Debug\Morzeovka(Split(),Join()).pdb
+C:\Users\Lapunik\Dropbox\C#\Morzeovka(Split(),Join())\obj\Debug\Morzeovka(Split(),Join()).csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Morzeovka(Split(),Join())\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Morzeovka(Split(),Join())\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Morzeovka(Split(),Join())\obj\Debug\Morzeovka(Split(),Join()).csproj.CopyComplete

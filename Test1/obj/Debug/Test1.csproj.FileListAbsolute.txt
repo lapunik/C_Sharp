@@ -1,0 +1,15 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\Test1\bin\Debug\Test1.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\Test1\bin\Debug\Test1.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Test1\bin\Debug\Test1.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Test1\obj\Debug\Test1.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Test1\obj\Debug\Test1.pdb
+C:\Users\Lapunik\Dropbox\C#\Test1\bin\Debug\Test1.exe.config
+C:\Users\Lapunik\Dropbox\C#\Test1\bin\Debug\Test1.exe
+C:\Users\Lapunik\Dropbox\C#\Test1\bin\Debug\Test1.pdb
+C:\Users\Lapunik\Dropbox\C#\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Test1\obj\Debug\Test1.exe
+C:\Users\Lapunik\Dropbox\C#\Test1\obj\Debug\Test1.pdb
+C:\Users\Lapunik\Dropbox\C#\Test1\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Test1\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Test1\obj\Debug\Test1.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\Lapunik\source\repos\¨PrvniKlikacka\¨PrvniKlikacka\bin\Debug\¨PrvniKlikacka.exe.config
+C:\Users\Lapunik\source\repos\¨PrvniKlikacka\¨PrvniKlikacka\bin\Debug\¨PrvniKlikacka.exe
+C:\Users\Lapunik\source\repos\¨PrvniKlikacka\¨PrvniKlikacka\bin\Debug\¨PrvniKlikacka.pdb
+C:\Users\Lapunik\source\repos\¨PrvniKlikacka\¨PrvniKlikacka\obj\Debug\¨PrvniKlikacka.csprojAssemblyReference.cache
+C:\Users\Lapunik\source\repos\¨PrvniKlikacka\¨PrvniKlikacka\obj\Debug\_PrvniKlikacka.Form1.resources
+C:\Users\Lapunik\source\repos\¨PrvniKlikacka\¨PrvniKlikacka\obj\Debug\_PrvniKlikacka.Properties.Resources.resources
+C:\Users\Lapunik\source\repos\¨PrvniKlikacka\¨PrvniKlikacka\obj\Debug\¨PrvniKlikacka.csproj.GenerateResource.cache
+C:\Users\Lapunik\source\repos\¨PrvniKlikacka\¨PrvniKlikacka\obj\Debug\¨PrvniKlikacka.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\source\repos\¨PrvniKlikacka\¨PrvniKlikacka\obj\Debug\¨PrvniKlikacka.exe
+C:\Users\Lapunik\source\repos\¨PrvniKlikacka\¨PrvniKlikacka\obj\Debug\¨PrvniKlikacka.pdb

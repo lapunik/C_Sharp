@@ -1,0 +1,7 @@
+C:\Users\Lapunik\Dropbox\C#\SQL_Data_sender\bin\Debug\SQL_Data_sender.exe.config
+C:\Users\Lapunik\Dropbox\C#\SQL_Data_sender\bin\Debug\SQL_Data_sender.exe
+C:\Users\Lapunik\Dropbox\C#\SQL_Data_sender\bin\Debug\SQL_Data_sender.pdb
+C:\Users\Lapunik\Dropbox\C#\SQL_Data_sender\obj\Debug\SQL_Data_sender.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\SQL_Data_sender\obj\Debug\SQL_Data_sender.exe
+C:\Users\Lapunik\Dropbox\C#\SQL_Data_sender\obj\Debug\SQL_Data_sender.pdb
+C:\Users\Lapunik\Dropbox\C#\SQL_Data_sender\obj\Debug\SQL_Data_sender.csprojAssemblyReference.cache

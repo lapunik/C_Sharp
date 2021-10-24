@@ -1,0 +1,6 @@
+C:\Users\Lapunik\Dropbox\C#\ase_knihovna\bin\Debug\ase_knihovna.dll
+C:\Users\Lapunik\Dropbox\C#\ase_knihovna\bin\Debug\ase_knihovna.pdb
+C:\Users\Lapunik\Dropbox\C#\ase_knihovna\obj\Debug\ase_knihovna.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\ase_knihovna\obj\Debug\ase_knihovna.dll
+C:\Users\Lapunik\Dropbox\C#\ase_knihovna\obj\Debug\ase_knihovna.pdb
+C:\Users\Lapunik\Dropbox\C#\ase_knihovna\obj\Debug\ase_knihovna.csprojAssemblyReference.cache

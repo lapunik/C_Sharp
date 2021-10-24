@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\Prepinac\obj\Debug\Prepinac.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Prepinac\obj\Debug\Prepinac.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Prepinac\bin\Debug\Prepinac.exe.config
+C:\Users\Lapunik\Dropbox\C#\Prepinac\bin\Debug\Prepinac.exe
+C:\Users\Lapunik\Dropbox\C#\Prepinac\bin\Debug\Prepinac.pdb
+C:\Users\Lapunik\Dropbox\C#\Prepinac\obj\Debug\Prepinac.exe
+C:\Users\Lapunik\Dropbox\C#\Prepinac\obj\Debug\Prepinac.pdb
+C:\Users\Lapunik\Dropbox\C#\Prepinac\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Prepinac\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Prepinac\obj\Debug\Prepinac.csproj.CopyComplete

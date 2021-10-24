@@ -1,0 +1,7 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\Raketka\bin\Debug\Raketka.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\Raketka\bin\Debug\Raketka.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Raketka\bin\Debug\Raketka.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Raketka\obj\Debug\Raketka.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Raketka\obj\Debug\Raketka.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Raketka\obj\Debug\Raketka.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Raketka\obj\Debug\Raketka.pdb

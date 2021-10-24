@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\Zkouska\bin\Debug\Zkouska.exe.config
+C:\Users\Lapunik\Dropbox\C#\Zkouska\bin\Debug\Zkouska.exe
+C:\Users\Lapunik\Dropbox\C#\Zkouska\bin\Debug\Zkouska.pdb
+C:\Users\Lapunik\Dropbox\C#\Zkouska\obj\Debug\Zkouska.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Zkouska\obj\Debug\Zkouska.Properties.Resources.resources
+C:\Users\Lapunik\Dropbox\C#\Zkouska\obj\Debug\Zkouska.csproj.GenerateResource.cache
+C:\Users\Lapunik\Dropbox\C#\Zkouska\obj\Debug\Zkouska.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Zkouska\obj\Debug\Zkouska.exe
+C:\Users\Lapunik\Dropbox\C#\Zkouska\obj\Debug\Zkouska.pdb
+C:\Users\Lapunik\Dropbox\C#\Zkouska\obj\Debug\Zkouska.Form1.resources

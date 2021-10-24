@@ -1,0 +1,17 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\Menu\bin\Debug\Lode.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\Menu\bin\Debug\Lode.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Menu\bin\Debug\Lode.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Menu\obj\Debug\Lode.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Menu\obj\Debug\Lode.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Menu\bin\Debug\Lode.exe.config
+C:\Users\Lapunik\Dropbox\C#\Menu\bin\Debug\Lode.exe
+C:\Users\Lapunik\Dropbox\C#\Menu\bin\Debug\Lode.pdb
+C:\Users\Lapunik\Dropbox\C#\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Menu\obj\Debug\Lode.exe
+C:\Users\Lapunik\Dropbox\C#\Menu\obj\Debug\Lode.pdb
+C:\Users\Lapunik\Dropbox\C#\Menu\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Menu\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Menu\obj\Debug\Menu.csproj.CopyComplete

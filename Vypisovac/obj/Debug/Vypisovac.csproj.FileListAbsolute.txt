@@ -1,0 +1,9 @@
+C:\Users\Lapunik\Dropbox\C#\Vypisovac\bin\Debug\Vypisovac.exe.config
+C:\Users\Lapunik\Dropbox\C#\Vypisovac\bin\Debug\Vypisovac.exe
+C:\Users\Lapunik\Dropbox\C#\Vypisovac\bin\Debug\Vypisovac.pdb
+C:\Users\Lapunik\Dropbox\C#\Vypisovac\obj\Debug\Vypisovac.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Vypisovac\obj\Debug\Vypisovac.exe
+C:\Users\Lapunik\Dropbox\C#\Vypisovac\obj\Debug\Vypisovac.pdb
+C:\Users\Lapunik\Dropbox\C#\Vypisovac\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Vypisovac\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Vypisovac\obj\Debug\Vypisovac.csproj.CopyComplete

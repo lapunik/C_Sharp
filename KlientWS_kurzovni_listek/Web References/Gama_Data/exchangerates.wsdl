@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.gama-system.com/webservices" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://www.gama-system.com/webservices" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">WebService provides exchange rate and currency conversion information.</wsdl:documentation>
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.gama-system.com/webservices">
+      <s:element name="GetExchangeRatesByValueXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strBank" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCurrency" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="dcmLow" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="dcmHigh" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="intRank" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetExchangeRatesByValueXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetExchangeRatesByValueXMLResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetExchangeRatesByDateXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strBank" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCurrency" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strDateLow" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strDateHigh" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetExchangeRatesByDateXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetExchangeRatesByDateXMLResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetExchangeRatesXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strBank" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strDate" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetExchangeRatesXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetExchangeRatesXMLResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCurrentExchangeRatesXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strBank" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCurrentExchangeRatesXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCurrentExchangeRatesXMLResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetExchangeRatesXMLSchema">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetExchangeRatesXMLSchemaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetExchangeRatesXMLSchemaResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCurrentExchangeRate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strBank" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCurrency" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="intRank" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCurrentExchangeRateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetCurrentExchangeRateResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetExchangeRate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strBank" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCurrency" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strDate" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="intRank" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetExchangeRateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetExchangeRateResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConvertToEUR">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="dcmValue" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="strBank" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCurrency" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strDate" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="intRank" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConvertToEURResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ConvertToEURResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConvertToForeign">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="dcmEUR" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="strBank" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCurrency" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strDate" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="intRank" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConvertToForeignResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ConvertToForeignResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrentConvertToEUR">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="dcmValue" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="strBank" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCurrency" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="intRank" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrentConvertToEURResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CurrentConvertToEURResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrentConvertToForeign">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="dcmEUR" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="strBank" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strCurrency" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="intRank" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CurrentConvertToForeignResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CurrentConvertToForeignResult" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetExchangeRatesByValueXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:GetExchangeRatesByValueXML" />
+  </wsdl:message>
+  <wsdl:message name="GetExchangeRatesByValueXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:GetExchangeRatesByValueXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetExchangeRatesByDateXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:GetExchangeRatesByDateXML" />
+  </wsdl:message>
+  <wsdl:message name="GetExchangeRatesByDateXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:GetExchangeRatesByDateXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetExchangeRatesXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:GetExchangeRatesXML" />
+  </wsdl:message>
+  <wsdl:message name="GetExchangeRatesXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:GetExchangeRatesXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCurrentExchangeRatesXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCurrentExchangeRatesXML" />
+  </wsdl:message>
+  <wsdl:message name="GetCurrentExchangeRatesXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCurrentExchangeRatesXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetExchangeRatesXMLSchemaSoapIn">
+    <wsdl:part name="parameters" element="tns:GetExchangeRatesXMLSchema" />
+  </wsdl:message>
+  <wsdl:message name="GetExchangeRatesXMLSchemaSoapOut">
+    <wsdl:part name="parameters" element="tns:GetExchangeRatesXMLSchemaResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCurrentExchangeRateSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCurrentExchangeRate" />
+  </wsdl:message>
+  <wsdl:message name="GetCurrentExchangeRateSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCurrentExchangeRateResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetExchangeRateSoapIn">
+    <wsdl:part name="parameters" element="tns:GetExchangeRate" />
+  </wsdl:message>
+  <wsdl:message name="GetExchangeRateSoapOut">
+    <wsdl:part name="parameters" element="tns:GetExchangeRateResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConvertToEURSoapIn">
+    <wsdl:part name="parameters" element="tns:ConvertToEUR" />
+  </wsdl:message>
+  <wsdl:message name="ConvertToEURSoapOut">
+    <wsdl:part name="parameters" element="tns:ConvertToEURResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConvertToForeignSoapIn">
+    <wsdl:part name="parameters" element="tns:ConvertToForeign" />
+  </wsdl:message>
+  <wsdl:message name="ConvertToForeignSoapOut">
+    <wsdl:part name="parameters" element="tns:ConvertToForeignResponse" />
+  </wsdl:message>
+  <wsdl:message name="CurrentConvertToEURSoapIn">
+    <wsdl:part name="parameters" element="tns:CurrentConvertToEUR" />
+  </wsdl:message>
+  <wsdl:message name="CurrentConvertToEURSoapOut">
+    <wsdl:part name="parameters" element="tns:CurrentConvertToEURResponse" />
+  </wsdl:message>
+  <wsdl:message name="CurrentConvertToForeignSoapIn">
+    <wsdl:part name="parameters" element="tns:CurrentConvertToForeign" />
+  </wsdl:message>
+  <wsdl:message name="CurrentConvertToForeignSoapOut">
+    <wsdl:part name="parameters" element="tns:CurrentConvertToForeignResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ExchangeRatesSoap">
+    <wsdl:operation name="GetExchangeRatesByValueXML">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Method returns an XML formatted string containing exchange rates for the specified bank and currency that are between specified values.</wsdl:documentation>
+      <wsdl:input message="tns:GetExchangeRatesByValueXMLSoapIn" />
+      <wsdl:output message="tns:GetExchangeRatesByValueXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetExchangeRatesByDateXML">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Method returns an XML formatted string containing exchange rates for the specified bank and currency that are between specified dates.</wsdl:documentation>
+      <wsdl:input message="tns:GetExchangeRatesByDateXMLSoapIn" />
+      <wsdl:output message="tns:GetExchangeRatesByDateXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetExchangeRatesXML">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Method returns an XML formatted string containing exchange rates for the specified bank and date.</wsdl:documentation>
+      <wsdl:input message="tns:GetExchangeRatesXMLSoapIn" />
+      <wsdl:output message="tns:GetExchangeRatesXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCurrentExchangeRatesXML">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Method returns an XML formatted string containing current exchange rates for the specified bank.</wsdl:documentation>
+      <wsdl:input message="tns:GetCurrentExchangeRatesXMLSoapIn" />
+      <wsdl:output message="tns:GetCurrentExchangeRatesXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetExchangeRatesXMLSchema">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Method returns XML schema (XSD) in which all XML formatted exchange rate information is in.</wsdl:documentation>
+      <wsdl:input message="tns:GetExchangeRatesXMLSchemaSoapIn" />
+      <wsdl:output message="tns:GetExchangeRatesXMLSchemaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCurrentExchangeRate">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Method returns current specified exchange rate for the specified bank and currency.</wsdl:documentation>
+      <wsdl:input message="tns:GetCurrentExchangeRateSoapIn" />
+      <wsdl:output message="tns:GetCurrentExchangeRateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetExchangeRate">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Method returns specified exchange rate for the specified bank, date and currency.</wsdl:documentation>
+      <wsdl:input message="tns:GetExchangeRateSoapIn" />
+      <wsdl:output message="tns:GetExchangeRateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConvertToEUR">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Method converts the specified value of foreign currency to EUR.</wsdl:documentation>
+      <wsdl:input message="tns:ConvertToEURSoapIn" />
+      <wsdl:output message="tns:ConvertToEURSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConvertToForeign">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Method converts the specified value of EUR to foreign currency.</wsdl:documentation>
+      <wsdl:input message="tns:ConvertToForeignSoapIn" />
+      <wsdl:output message="tns:ConvertToForeignSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CurrentConvertToEUR">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Method converts the current specified value of foreign currency to EUR.</wsdl:documentation>
+      <wsdl:input message="tns:CurrentConvertToEURSoapIn" />
+      <wsdl:output message="tns:CurrentConvertToEURSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CurrentConvertToForeign">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Method converts the specified value of EUR to current foreign currency.</wsdl:documentation>
+      <wsdl:input message="tns:CurrentConvertToForeignSoapIn" />
+      <wsdl:output message="tns:CurrentConvertToForeignSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ExchangeRatesSoap" type="tns:ExchangeRatesSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetExchangeRatesByValueXML">
+      <soap:operation soapAction="http://www.gama-system.com/webservices/GetExchangeRatesByValueXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExchangeRatesByDateXML">
+      <soap:operation soapAction="http://www.gama-system.com/webservices/GetExchangeRatesByDateXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExchangeRatesXML">
+      <soap:operation soapAction="http://www.gama-system.com/webservices/GetExchangeRatesXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCurrentExchangeRatesXML">
+      <soap:operation soapAction="http://www.gama-system.com/webservices/GetCurrentExchangeRatesXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExchangeRatesXMLSchema">
+      <soap:operation soapAction="http://www.gama-system.com/webservices/GetExchangeRatesXMLSchema" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCurrentExchangeRate">
+      <soap:operation soapAction="http://www.gama-system.com/webservices/GetCurrentExchangeRate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExchangeRate">
+      <soap:operation soapAction="http://www.gama-system.com/webservices/GetExchangeRate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConvertToEUR">
+      <soap:operation soapAction="http://www.gama-system.com/webservices/ConvertToEUR" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConvertToForeign">
+      <soap:operation soapAction="http://www.gama-system.com/webservices/ConvertToForeign" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrentConvertToEUR">
+      <soap:operation soapAction="http://www.gama-system.com/webservices/CurrentConvertToEUR" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrentConvertToForeign">
+      <soap:operation soapAction="http://www.gama-system.com/webservices/CurrentConvertToForeign" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ExchangeRatesSoap12" type="tns:ExchangeRatesSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetExchangeRatesByValueXML">
+      <soap12:operation soapAction="http://www.gama-system.com/webservices/GetExchangeRatesByValueXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExchangeRatesByDateXML">
+      <soap12:operation soapAction="http://www.gama-system.com/webservices/GetExchangeRatesByDateXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExchangeRatesXML">
+      <soap12:operation soapAction="http://www.gama-system.com/webservices/GetExchangeRatesXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCurrentExchangeRatesXML">
+      <soap12:operation soapAction="http://www.gama-system.com/webservices/GetCurrentExchangeRatesXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExchangeRatesXMLSchema">
+      <soap12:operation soapAction="http://www.gama-system.com/webservices/GetExchangeRatesXMLSchema" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCurrentExchangeRate">
+      <soap12:operation soapAction="http://www.gama-system.com/webservices/GetCurrentExchangeRate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExchangeRate">
+      <soap12:operation soapAction="http://www.gama-system.com/webservices/GetExchangeRate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConvertToEUR">
+      <soap12:operation soapAction="http://www.gama-system.com/webservices/ConvertToEUR" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConvertToForeign">
+      <soap12:operation soapAction="http://www.gama-system.com/webservices/ConvertToForeign" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrentConvertToEUR">
+      <soap12:operation soapAction="http://www.gama-system.com/webservices/CurrentConvertToEUR" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CurrentConvertToForeign">
+      <soap12:operation soapAction="http://www.gama-system.com/webservices/CurrentConvertToForeign" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ExchangeRates">
+    <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">WebService provides exchange rate and currency conversion information.</wsdl:documentation>
+    <wsdl:port name="ExchangeRatesSoap" binding="tns:ExchangeRatesSoap">
+      <soap:address location="http://webservices.gama-system.com/exchangerates.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ExchangeRatesSoap12" binding="tns:ExchangeRatesSoap12">
+      <soap12:address location="http://webservices.gama-system.com/exchangerates.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

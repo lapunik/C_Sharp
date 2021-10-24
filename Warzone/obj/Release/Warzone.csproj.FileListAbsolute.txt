@@ -1,0 +1,10 @@
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\Warzone\bin\Release\Warzone.exe.config
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\Warzone\bin\Release\Warzone.exe
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\Warzone\bin\Release\Warzone.pdb
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\Warzone\obj\Release\Warzone.Form1.resources
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\Warzone\obj\Release\Warzone.Properties.Resources.resources
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\Warzone\obj\Release\Warzone.csproj.GenerateResource.cache
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\Warzone\obj\Release\Warzone.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\Warzone\obj\Release\Warzone.exe
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\Warzone\obj\Release\Warzone.pdb
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\Warzone\obj\Release\Warzone.csprojAssemblyReference.cache

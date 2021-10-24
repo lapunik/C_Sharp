@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\klientWS\bin\Debug\klientWS.exe.config
+C:\Users\Lapunik\Dropbox\C#\klientWS\bin\Debug\klientWS.exe
+C:\Users\Lapunik\Dropbox\C#\klientWS\bin\Debug\klientWS.pdb
+C:\Users\Lapunik\Dropbox\C#\klientWS\obj\Debug\klientWS.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\klientWS\obj\Debug\klientWS.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\klientWS\obj\Debug\klientWS.exe
+C:\Users\Lapunik\Dropbox\C#\klientWS\obj\Debug\klientWS.pdb
+C:\Users\Lapunik\Dropbox\C#\klientWS\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\klientWS\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\klientWS\obj\Debug\klientWS.csproj.CopyComplete

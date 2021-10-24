@@ -1,0 +1,73 @@
+﻿@model MVCKalkulacka.Models.Kalkulacka
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<head>
+
+</head>
+
+<body>
+
+
+    <h2>
+        
+        @if (ViewBag.Jmeno != null) // pokud je v url uvedeno pro koho kalkulacka je
+        {
+            //  <text> pro @ViewBag.Jmeno</text> // vypis to (tohle je prvni varianta, ale ted jsem pridal kalkulacce vlastnost nazev do ktere se ulozi jmeno pokud prijde v URL)
+
+        <p>Kalkulacka pro @Model.nazev</p>
+
+            // aby to něco vypsalo musím zadat url např: https://localhost:44348/?jmeno=Kaja
+
+        }
+        else
+        {
+        <p>Kalkulacka</p>
+        }
+    </h2>
+
+
+    <h4>Kalkulacka</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Index">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Cislo1" class="control-label"></label>
+                    <br /> <!-- odřádkování -->
+                    <input asp-for="Cislo1" class="form-control" />
+                    <span asp-validation-for="Cislo1" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Cislo2" class="control-label"></label>
+                    <br />
+                    <input asp-for="Cislo2" class="form-control" />
+                    <span asp-validation-for="Cislo2" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Operace" class="control-label"></label>
+                    <br />
+                    @Html.DropDownListFor(model => model.Operace, new SelectList(Model.MozneOperace, "Value", "Text"))
+                    <span asp-validation-for="Operace" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Vypočítej" class="btn btn-default" />
+                </div>
+
+                <p style="font-size: 2em;">@Model.Vysledek</p> <!-- zavináč model, protože bereme vlastnost výsledek z modelu -->
+
+            </form>
+            </div>
+        </div>
+
+
+
+        @section Scripts
+        {
+            @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        }
+
+    </body>

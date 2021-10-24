@@ -1,0 +1,10 @@
+C:\Users\Lapunik\Dropbox\C#\CRC\bin\Debug\CRC.exe.config
+C:\Users\Lapunik\Dropbox\C#\CRC\bin\Debug\CRC.exe
+C:\Users\Lapunik\Dropbox\C#\CRC\bin\Debug\CRC.pdb
+C:\Users\Lapunik\Dropbox\C#\CRC\obj\Debug\CRC.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\CRC\obj\Debug\CRC.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CRC\obj\Debug\CRC.exe
+C:\Users\Lapunik\Dropbox\C#\CRC\obj\Debug\CRC.pdb
+C:\Users\Lapunik\Dropbox\C#\CRC\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\CRC\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\CRC\obj\Debug\CRC.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\Lapunik\Dropbox\C#\Dnes_ma_svatek\bin\Debug\Dnes_ma_svatek.exe.config
+C:\Users\Lapunik\Dropbox\C#\Dnes_ma_svatek\bin\Debug\Dnes_ma_svatek.exe
+C:\Users\Lapunik\Dropbox\C#\Dnes_ma_svatek\bin\Debug\Dnes_ma_svatek.pdb
+C:\Users\Lapunik\Dropbox\C#\Dnes_ma_svatek\obj\Debug\Dnes_ma_svatek.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Dnes_ma_svatek\obj\Debug\Dnes_ma_svatek.exe
+C:\Users\Lapunik\Dropbox\C#\Dnes_ma_svatek\obj\Debug\Dnes_ma_svatek.pdb
+C:\Users\Lapunik\Dropbox\C#\Dnes_ma_svatek\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Dnes_ma_svatek\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Dnes_ma_svatek\obj\Debug\Dnes_ma_svatek.csproj.CopyComplete

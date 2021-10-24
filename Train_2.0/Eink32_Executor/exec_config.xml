@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigExec xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <ExecItem>
+      <FileName>C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\bin\Debug\TCPServerTrainTT.exe</FileName>
+      <ControlChar>77</ControlChar>
+      <StartPreDelayMs>100</StartPreDelayMs>
+      <StartPostDelayMs>0</StartPostDelayMs>
+      <AutoStart>true</AutoStart>
+      <AutoRestart>true</AutoRestart>
+      <Parameter />
+    </ExecItem>
+    <ExecItem>
+      <FileName>C:\Users\Lapunik\Dropbox\C#\Train_2.0\TimetableControlTrainTT\bin\Debug\TimetableControlTrainTT.exe</FileName>
+      <ControlChar>84</ControlChar>
+      <StartPreDelayMs>100</StartPreDelayMs>
+      <StartPostDelayMs>0</StartPostDelayMs>
+      <AutoStart>true</AutoStart>
+      <AutoRestart>true</AutoRestart>
+      <Parameter>C:\\Users\\Lapunik\\Dropbox\\C#\\Train_2.0\\TimetableControlTrainTT\\Timetables\\Timetable_Train_TT_recess.csv</Parameter>
+    </ExecItem>
+  </Items>
+</ConfigExec>

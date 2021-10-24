@@ -1,0 +1,13 @@
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\bin\Debug\OdporovyDelic.exe.config
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\bin\Debug\OdporovyDelic.exe
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\bin\Debug\OdporovyDelic.pdb
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\obj\Debug\OdporovyDelic.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\obj\Debug\OdporovyDelic.Form1.resources
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\obj\Debug\OdporovyDelic.Properties.Resources.resources
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\obj\Debug\OdporovyDelic.csproj.GenerateResource.cache
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\obj\Debug\OdporovyDelic.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\obj\Debug\OdporovyDelic.exe
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\obj\Debug\OdporovyDelic.pdb
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\OdporovyDelic\obj\Debug\OdporovyDelic.csproj.CopyComplete

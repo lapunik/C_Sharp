@@ -1,0 +1,17 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\HelloObjectWorld\bin\Debug\HelloObjectWorld.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\HelloObjectWorld\bin\Debug\HelloObjectWorld.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\HelloObjectWorld\bin\Debug\HelloObjectWorld.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\HelloObjectWorld\obj\Debug\HelloObjectWorld.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\HelloObjectWorld\obj\Debug\HelloObjectWorld.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\HelloObjectWorld\obj\Debug\HelloObjectWorld.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\HelloObjectWorld\obj\Debug\HelloObjectWorld.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\HelloObjectWorld\bin\Debug\HelloObjectWorld.exe.config
+C:\Users\Lapunik\Dropbox\C#\HelloObjectWorld\bin\Debug\HelloObjectWorld.exe
+C:\Users\Lapunik\Dropbox\C#\HelloObjectWorld\bin\Debug\HelloObjectWorld.pdb
+C:\Users\Lapunik\Dropbox\C#\HelloObjectWorld\obj\Debug\HelloObjectWorld.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\HelloObjectWorld\obj\Debug\HelloObjectWorld.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\HelloObjectWorld\obj\Debug\HelloObjectWorld.exe
+C:\Users\Lapunik\Dropbox\C#\HelloObjectWorld\obj\Debug\HelloObjectWorld.pdb
+C:\Users\Lapunik\Dropbox\C#\HelloObjectWorld\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\HelloObjectWorld\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\HelloObjectWorld\obj\Debug\HelloObjectWorld.csproj.CopyComplete

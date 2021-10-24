@@ -1,0 +1,13 @@
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\bin\Release\TCPServerTrainTT.exe.config
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\bin\Release\TCPServerTrainTT.exe
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\bin\Release\TCPServerTrainTT.pdb
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\bin\Release\Alba.CsConsoleFormat.ColorfulConsole.dll
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\bin\Release\Alba.CsConsoleFormat.dll
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\bin\Release\Colorful.Console.dll
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\bin\Release\TrainTTLibrary.dll
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\bin\Release\TrainTTLibrary.pdb
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\obj\Release\TCPServerTrainTT.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\obj\Release\TCPServerTrainTT.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\obj\Release\TCPServerTrainTT.csproj.CopyComplete
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\obj\Release\TCPServerTrainTT.exe
+C:\Users\Lapunik\Dropbox\C#\Train_2.0\TCPServerTrainTT\obj\Release\TCPServerTrainTT.pdb

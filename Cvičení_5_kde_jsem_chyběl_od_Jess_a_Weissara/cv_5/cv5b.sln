@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28218.60
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VlastniKontrol", "VlastniKontrol\VlastniKontrol.csproj", "{6D94E1EA-E1C3-443D-950F-CFC5614A31DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NactiData", "NactiData\NactiData.csproj", "{3261230F-FE49-4B5E-9E48-43BA3E5AC3C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D94E1EA-E1C3-443D-950F-CFC5614A31DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D94E1EA-E1C3-443D-950F-CFC5614A31DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D94E1EA-E1C3-443D-950F-CFC5614A31DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D94E1EA-E1C3-443D-950F-CFC5614A31DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3261230F-FE49-4B5E-9E48-43BA3E5AC3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3261230F-FE49-4B5E-9E48-43BA3E5AC3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3261230F-FE49-4B5E-9E48-43BA3E5AC3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3261230F-FE49-4B5E-9E48-43BA3E5AC3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

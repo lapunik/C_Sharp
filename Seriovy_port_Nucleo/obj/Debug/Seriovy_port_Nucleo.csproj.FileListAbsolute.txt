@@ -1,0 +1,7 @@
+C:\Users\Lapunik\Dropbox\C#\Seriovy_port_Nucleo\bin\Debug\Seriovy_port_Nucleo.exe.config
+C:\Users\Lapunik\Dropbox\C#\Seriovy_port_Nucleo\bin\Debug\Seriovy_port_Nucleo.exe
+C:\Users\Lapunik\Dropbox\C#\Seriovy_port_Nucleo\bin\Debug\Seriovy_port_Nucleo.pdb
+C:\Users\Lapunik\Dropbox\C#\Seriovy_port_Nucleo\obj\Debug\Seriovy_port_Nucleo.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Seriovy_port_Nucleo\obj\Debug\Seriovy_port_Nucleo.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Seriovy_port_Nucleo\obj\Debug\Seriovy_port_Nucleo.exe
+C:\Users\Lapunik\Dropbox\C#\Seriovy_port_Nucleo\obj\Debug\Seriovy_port_Nucleo.pdb

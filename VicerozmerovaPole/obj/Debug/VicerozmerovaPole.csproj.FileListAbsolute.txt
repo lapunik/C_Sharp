@@ -1,0 +1,17 @@
+C:\Users\Lapunik\Dropbox\C#\CSharp\VicerozmerovaPole\bin\Debug\VicerozmerovaPole.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\VicerozmerovaPole\bin\Debug\VicerozmerovaPole.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\VicerozmerovaPole\bin\Debug\VicerozmerovaPole.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\VicerozmerovaPole\obj\Debug\VicerozmerovaPole.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\VicerozmerovaPole\obj\Debug\VicerozmerovaPole.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\VicerozmerovaPole\obj\Debug\VicerozmerovaPole.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\VicerozmerovaPole\obj\Debug\VicerozmerovaPole.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\VicerozmerovaPole\bin\Debug\VicerozmerovaPole.exe.config
+C:\Users\Lapunik\Dropbox\C#\VicerozmerovaPole\bin\Debug\VicerozmerovaPole.exe
+C:\Users\Lapunik\Dropbox\C#\VicerozmerovaPole\bin\Debug\VicerozmerovaPole.pdb
+C:\Users\Lapunik\Dropbox\C#\VicerozmerovaPole\obj\Debug\VicerozmerovaPole.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\VicerozmerovaPole\obj\Debug\VicerozmerovaPole.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\VicerozmerovaPole\obj\Debug\VicerozmerovaPole.exe
+C:\Users\Lapunik\Dropbox\C#\VicerozmerovaPole\obj\Debug\VicerozmerovaPole.pdb
+C:\Users\Lapunik\Dropbox\C#\VicerozmerovaPole\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\VicerozmerovaPole\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\VicerozmerovaPole\obj\Debug\VicerozmerovaPole.csproj.CopyComplete

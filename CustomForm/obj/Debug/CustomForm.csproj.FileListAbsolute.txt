@@ -1,0 +1,10 @@
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\bin\Debug\CustomForm.exe
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\bin\Debug\CustomForm.pdb
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Debug\CustomForm.Form1.resources
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Debug\CustomForm.Properties.Resources.resources
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Debug\CustomForm.csproj.GenerateResource.cache
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Debug\CustomForm.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Debug\CustomForm.exe
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Debug\CustomForm.pdb
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Debug\CustomForm.csprojAssemblyReference.cache
+C:\Users\Lapunik\OneDrive\Dokumenty\C#\CustomForm\obj\Debug\CustomForm.Form2.resources

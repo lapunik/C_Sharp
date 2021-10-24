@@ -1,0 +1,62 @@
+C:\Škola\3. rok - zimní semestr\PPES\cvičení\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+C:\Škola\3. rok - zimní semestr\PPES\cvičení\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe
+C:\Škola\3. rok - zimní semestr\PPES\cvičení\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.pdb
+C:\Škola\3. rok - zimní semestr\PPES\cvičení\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+C:\Škola\3. rok - zimní semestr\PPES\cvičení\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.Properties.Resources.resources
+C:\Škola\3. rok - zimní semestr\PPES\cvičení\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+C:\Škola\3. rok - zimní semestr\PPES\cvičení\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.csproj.CoreCompileInputs.cache
+C:\Škola\3. rok - zimní semestr\PPES\cvičení\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.exe
+C:\Škola\3. rok - zimní semestr\PPES\cvičení\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.pdb
+C:\Škola\3. rok - zimní semestr\PPES\cvičení\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.Form1.resources
+C:\Users\Jenda\Desktop\Vejška- FEL\3.ročník\5.semestr\PPES\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+C:\Users\Jenda\Desktop\Vejška- FEL\3.ročník\5.semestr\PPES\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.exe
+C:\Users\Jenda\Desktop\Vejška- FEL\3.ročník\5.semestr\PPES\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.pdb
+C:\Users\Jenda\Desktop\Vejška- FEL\3.ročník\5.semestr\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+C:\Users\Jenda\Desktop\Vejška- FEL\3.ročník\5.semestr\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.Form1.resources
+C:\Users\Jenda\Desktop\Vejška- FEL\3.ročník\5.semestr\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.Properties.Resources.resources
+C:\Users\Jenda\Desktop\Vejška- FEL\3.ročník\5.semestr\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+C:\Users\Jenda\Desktop\Vejška- FEL\3.ročník\5.semestr\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\Jenda\Desktop\Vejška- FEL\3.ročník\5.semestr\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.exe
+C:\Users\Jenda\Desktop\Vejška- FEL\3.ročník\5.semestr\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.pdb
+C:\Users\Lukas\OneDrive\PPES\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+C:\Users\Lukas\OneDrive\PPES\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.exe
+C:\Users\Lukas\OneDrive\PPES\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.pdb
+C:\Users\Lukas\OneDrive\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+C:\Users\Lukas\OneDrive\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.Form1.resources
+C:\Users\Lukas\OneDrive\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.Properties.Resources.resources
+C:\Users\Lukas\OneDrive\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+C:\Users\Lukas\OneDrive\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\OneDrive\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.exe
+C:\Users\Lukas\OneDrive\PPES\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.pdb
+C:\Users\Syrio Forel\Desktop\HOVNA\PPES\Kalkulačka\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+C:\Users\Syrio Forel\Desktop\HOVNA\PPES\Kalkulačka\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.exe
+C:\Users\Syrio Forel\Desktop\HOVNA\PPES\Kalkulačka\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.pdb
+C:\Users\Syrio Forel\Desktop\HOVNA\PPES\Kalkulačka\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.exe
+C:\Users\Syrio Forel\Desktop\HOVNA\PPES\Kalkulačka\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.pdb
+C:\Users\Syrio Forel\Desktop\HOVNA\PPES\Kalkulačka\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+C:\Users\Syrio Forel\Desktop\HOVNA\PPES\Kalkulačka\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.Form1.resources
+C:\Users\Syrio Forel\Desktop\HOVNA\PPES\Kalkulačka\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.Properties.Resources.resources
+C:\Users\Syrio Forel\Desktop\HOVNA\PPES\Kalkulačka\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+C:\Users\Lapunik\Dropbox\C#\CSharp\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.Form1.resources
+C:\Users\Lapunik\Dropbox\C#\CSharp\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.Properties.Resources.resources
+C:\Users\Lapunik\Dropbox\C#\CSharp\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.exe
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\bin\Debug\Kalkulacka.pdb
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.Form1.resources
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.Properties.Resources.resources
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.cache
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.exe
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.pdb
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\bin\Debug\AForge.dll
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\bin\Debug\AForge.xml
+C:\Users\Lapunik\Dropbox\C#\Kalkulačka_No_Array\Ondí kalkulačka\Kalkulacka\obj\Debug\Kalkulacka.csproj.CopyComplete

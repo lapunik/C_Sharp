@@ -1,0 +1,13 @@
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Delegati\Delegati\bin\Debug\Delegati.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Delegati\Delegati\bin\Debug\Delegati.pdb
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Delegati\Delegati\obj\x86\Debug\Delegati.exe
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Delegati\Delegati\obj\x86\Debug\Delegati.pdb
+C:\Users\sdraco\Dropbox\devbook\Rozpracované\CSP seriál\Delegati\Delegati\obj\x86\Debug\Delegati.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\fls\Delegati\Delegati\obj\x86\Debug\Delegati.exe
+C:\Users\David\Desktop\fls\Delegati\Delegati\obj\x86\Debug\Delegati.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Delegati\Delegati\bin\Debug\Delegati.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Delegati\Delegati\bin\Debug\Delegati.pdb
+C:\Users\Lapunik\Dropbox\C#\CSharp\Delegati\Delegati\obj\x86\Debug\Delegati.csprojAssemblyReference.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Delegati\Delegati\obj\x86\Debug\Delegati.csproj.CoreCompileInputs.cache
+C:\Users\Lapunik\Dropbox\C#\CSharp\Delegati\Delegati\obj\x86\Debug\Delegati.exe
+C:\Users\Lapunik\Dropbox\C#\CSharp\Delegati\Delegati\obj\x86\Debug\Delegati.pdb
