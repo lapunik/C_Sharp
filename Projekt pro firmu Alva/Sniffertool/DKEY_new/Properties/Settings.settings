@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DKEY_new.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="com1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM100</Value>
+    </Setting>
+    <Setting Name="com2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM102</Value>
+    </Setting>
+    <Setting Name="com3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM104</Value>
+    </Setting>
+    <Setting Name="com4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM106</Value>
+    </Setting>
+    <Setting Name="com5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM108</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

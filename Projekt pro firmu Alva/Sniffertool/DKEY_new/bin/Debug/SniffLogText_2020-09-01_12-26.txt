@@ -1,0 +1,4 @@
+       2020-09-01 12:26:53.358               55490                 Car to key LF      AB                                                                                        
+       2020-09-01 12:26:54.805                   0                 Car to key LF      7E  4F  2D  18  80  01  8D  21  07  D2  5F  80                                            LF WUP, but CRC4 not valid)
+       2020-09-01 12:26:58.810                3990                 Car to key LF      7E  4F  2D  18  26  00  04                                                                Key Search,  SEQ 0  FC 2  channel 1  anzHFM 0  anzAC 0
+       2020-09-01 12:27:00.004                5180                 Car to key LF      7E  4F  2D  18  26  00  04                                                                Key Search,  SEQ 0  FC 2  channel 1  anzHFM 0  anzAC 0
